@@ -1,3 +1,3 @@
 # Algorithm
-learn C++ Algorithm
-test
+
+# learn  Algorithm use C++ language
